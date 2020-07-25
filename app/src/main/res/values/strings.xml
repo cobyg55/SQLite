@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Base De Datos SQLite</string>
+    <string name="txtCodigo">Codigo</string>
+    <string name="txtDescripcion">Descripcion</string>
+    <string name="txtPrecio">Precio</string>
+    <string name="btnRegistrar">Registrar Producto</string>
+    <string name="btnBuscar">Buscar Producto</string>
+    <string name="btnEliminar">Eliminar Producto</string>
+    <string name="btnModificar">Modificar Producto</string>
+</resources>
